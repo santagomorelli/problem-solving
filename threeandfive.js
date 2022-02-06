@@ -1,3 +1,8 @@
+ /*
+  Esta funcion recorre un array e imprime si el numero es divisible por 3, por 5 o por ambos.
+  Si no es divisible por ninguno se impñrime el numero ingresado.
+  */
+
  function fizzBuzz(n) {
 
      for (let i = 1; i <= n; i++) {
